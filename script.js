@@ -27,7 +27,7 @@ const poemStanzas = [
 
   "So my cutu, hear this true—\nI’m always here, just for you.\nForever and ever, through all we do,\nMy heart, my soul… belongs to you.",
 
-  "– To My Cutu Baccha ❤️🌏"
+  "i LOVE YOU ❤️\n – To My Cutu Baccha ❤️🌏"
 ];
 
 let index = 0;
